@@ -48,13 +48,13 @@ To set up and run the project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/MMansy19/E-Commerce-Website.git
+   git clone https://github.com/Poojasdfeef/puja.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd E-Commerce-Website
+   cd profile.fyi-main
    ```
 
 3. Install the project dependencies:
